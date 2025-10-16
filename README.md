@@ -157,12 +157,14 @@ A clear presentation of skills, certifications, and projects
 •	PEGA – SENIOR SYSTEM ARCHITECT(2023 - 2024)
 •	JAPANESE - N5 LEVEL(2024)
 •	STEP COURSE (2023)
+
 👩‍💻 Author Information
 DARSHAN M S 
 🎓BTECH, M.KUMARASAMY COLLEGE OF ENGINEERING
 💼 Python Fullstack Trainee
 📚 SENIOR SYSTEM ARCHITECT
 🔧 Tools And Technologies: Python, PEGA,  django , numpy , FLASK    
+
 
 
 
